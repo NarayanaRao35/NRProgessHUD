@@ -1,0 +1,16 @@
+PODS:
+  - NRProgessHUD (1.0)
+
+DEPENDENCIES:
+  - NRProgessHUD (from `../`)
+
+EXTERNAL SOURCES:
+  NRProgessHUD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NRProgessHUD: f76a815e83795f5010ab67845dfafa6d2a12fe02
+
+PODFILE CHECKSUM: a62f2bcc67556a61452c93f2c6d353d8c6a8e69f
+
+COCOAPODS: 1.0.1

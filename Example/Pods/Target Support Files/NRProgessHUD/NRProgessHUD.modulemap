@@ -1,0 +1,6 @@
+framework module NRProgessHUD {
+  umbrella header "NRProgessHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
